@@ -11,3 +11,16 @@ Fork or clone repos from your GitHub orgs to test what happens when this org is 
 * nmfs-test-migrate a Jekyll based page with lots of dependencies
 * rCAX GitHub action builds a pkgdown page
 * VRData nothing that special but I made it private so we can test private GitHub pages which is a new thing with Enterprise.
+
+## Things that are likely to break
+
+* Fork relationships do not presist https://docs.github.com/en/migrations/using-ghe-migrator/exporting-migration-data-from-githubcom
+* Project boards are not migrated but everything else is
+
+## Migration steps
+
+* First use the backup.sh script (in GGT G-Drive) to make the migration archive. Download the archive and share with GHEC admin
+  * https://docs.github.com/en/rest/migrations/orgs?apiVersion=2022-11-28
+  * https://docs.github.com/en/migrations/using-ghe-migrator/exporting-migration-data-from-githubcom
+* Next a GHEC admin does the migration
+  * https://docs.github.com/en/migrations/using-ghe-migrator/preparing-to-migrate-data-to-github-enterprise-server
