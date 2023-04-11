@@ -29,7 +29,7 @@ Per 4/10/23 discussion with GH Enterprise reps
 4. That's it.
 
 * ~~First use the backup.sh script (in GGT G-Drive) to make the migration archive. Download the archive and share with GHEC admin~~
-  * https://docs.github.com/en/rest/migrations/orgs?apiVersion=2022-11-28
-  * https://docs.github.com/en/migrations/using-ghe-migrator/exporting-migration-data-from-githubcom
+  * ~~https://docs.github.com/en/rest/migrations/orgs?apiVersion=2022-11-28~~
+  * ~~https://docs.github.com/en/migrations/using-ghe-migrator/exporting-migration-data-from-githubcom~~
 * ~~Next a GHEC admin does the migration~~
-  * https://docs.github.com/en/migrations/using-ghe-migrator/preparing-to-migrate-data-to-github-enterprise-server
+  * ~~https://docs.github.com/en/migrations/using-ghe-migrator/preparing-to-migrate-data-to-github-enterprise-server~~
