@@ -8,7 +8,7 @@ Fork or clone repos from your GitHub orgs to test what happens when this org is 
 
 ## Repos on here now
 
-* nmfs-test-migrate a Jekyll based page with lots of dependencies
+* nmfs-test-migrate.github.io a Jekyll based page with lots of dependencies
 * rCAX GitHub action builds a pkgdown page
 * VRData nothing that special but I made it private so we can test private GitHub pages which is a new thing with Enterprise.
 
